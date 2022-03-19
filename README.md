@@ -6,7 +6,7 @@ Users can add new games to the repository. They can also follow links to website
 
 This software was developed as a means of learning more about the Django framework. Through developing this software, I was able to become more familiar with Django's syntax, structure, and capabilities. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]( https://youtu.be/bL8VYnx46ig)
 
 # Web Pages
 
