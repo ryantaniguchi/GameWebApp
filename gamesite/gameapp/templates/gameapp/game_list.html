@@ -1,0 +1,15 @@
+{% extends 'gameapp/base.html' %}
+
+{% block title %}
+Home Page
+{% endblock %}
+
+{% block content %}
+    <!-- Lists games in a list -->
+    <h2>{{game_list.title}}</h2>
+    <ul>
+        {% for game in game_list.game_set.all %}
+            <li>{{ game.Name }}</li>
+    {% endfor %}
+    </ul>
+{% endblock %}
