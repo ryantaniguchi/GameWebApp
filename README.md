@@ -37,6 +37,7 @@ The following libraries were used to create this software:
 * [Django Documentation and Tutorial](https://docs.djangoproject.com/en/3.0/contents/)
 * [TutorialsPoint - Django Tutorial](https://www.tutorialspoint.com/django/index.htm)
 * [GeeksforGeeks - Django Tutorial](https://www.geeksforgeeks.org/django-tutorial/)
+* [Kaggle - Board Game Database from BoardGameGeek](https://www.kaggle.com/threnjen/board-games-database-from-boardgamegeek?select=games.csv)
 * [florida web design](http://www.bryantsmith.com/)
 
 # Future Work
